@@ -1,0 +1,8 @@
+D:\WORKING\VaultManager\Debug\VaultManager.vcxprojAssemblyReference.cache
+D:\WORKING\VaultManager\Debug\VaultManager.Form1.resources
+D:\WORKING\VaultManager\Debug\VaultManager.vcxproj.GenerateResource.cache
+D:\WORKING\VaultManager\Debug\VaultManager.exe
+D:\WORKING\VaultManager\Debug\VaultManager.pdb
+D:\WORKING\VaultManager\Debug\VaultManager.CreateWindow.resources
+D:\WORKING\VaultManager\Debug\VaultManager.ManagerForm.resources
+D:\WORKING\VaultManager\Debug\VaultManager.PasswordGenerator.resources

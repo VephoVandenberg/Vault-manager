@@ -1,0 +1,35 @@
+﻿  CppCLR_WinformsProjekt.cpp
+D:\WORKING\VaultManager\RSA.h(70,30): warning C4244: 'return': conversion from '__int64' to 'char', possible loss of data
+D:\WORKING\VaultManager\RSA.h(99,35): warning C4018: '<': signed/unsigned mismatch
+D:\WORKING\VaultManager\ManagerForm.h(361,57): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(367,57): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(373,63): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(379,47): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(421,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(448,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(461,39): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(467,39): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(473,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(443,7): warning C4101: 'v': unreferenced local variable
+D:\WORKING\VaultManager\CreateWindow.h(196,27): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\CreateWindow.h(215,24): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\CreateWindow.h(224,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WORKING\VaultManager\Form1.h(169,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\Form1.h(181,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\Form1.h(194,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ManagerForm.cpp
+D:\WORKING\VaultManager\RSA.h(70,30): warning C4244: 'return': conversion from '__int64' to 'char', possible loss of data
+D:\WORKING\VaultManager\RSA.h(99,35): warning C4018: '<': signed/unsigned mismatch
+D:\WORKING\VaultManager\ManagerForm.h(361,57): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(367,57): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(373,63): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(379,47): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(421,33): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(448,28): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(461,39): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(467,39): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(473,29): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+D:\WORKING\VaultManager\ManagerForm.h(443,7): warning C4101: 'v': unreferenced local variable
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  VaultManager.vcxproj -> D:\WORKING\VaultManager\Debug\VaultManager.exe
